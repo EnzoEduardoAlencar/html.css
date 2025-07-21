@@ -1,0 +1,16 @@
+digitar "!" e apertar enter
+
+tag p: para parágrafos
+tag hr: para linhas na horizontal
+tags h1 até h6: para títulos:
+h2 é um sub-titulo de h1, h3 é um sub-titulo
+de h2 e por ai vai até h6
+
+simbolos:
+&lt; = <
+&gt; = >
+
+emojis:
+pesquisar em emojipidea.com
+escrever "&#x" antes do codigo do emoji
+e ";" depois

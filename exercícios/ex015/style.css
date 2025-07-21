@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    background-color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: mediumblue;
+    background-color: darkgoldenrod;
+}
+h2 {
+    color: red;
+}

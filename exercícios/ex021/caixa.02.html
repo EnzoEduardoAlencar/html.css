@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gruping tags</title>
+    <style>
+        body {
+            background-color: dimgrey;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0px;
+        }
+
+        header {
+            background-color: white;
+            margin: 10px;
+            padding: 10px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+            border-radius: 10px 10px 0px 0px;
+        }
+
+        nav {
+            background-color: gray;
+            padding: 4px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+        }
+
+        nav > a {
+            text-decoration: none;
+            color: white;
+            margin-right: 30px;
+        }
+
+        main {
+            background-color: white;
+            margin: 10px;
+            padding: 10px;
+            box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+            border-radius: 0px 0px 10px 10px;
+        }
+
+        article {
+            background-color: gray;
+            padding: 10px 5px;
+        }
+
+        aside > p {
+            background-color: rgb(82, 82, 82);
+        }
+
+        footer {
+            color: white;
+            background-color: black;
+            padding: 6px;
+            text-align: center;
+        }
+
+        footer > p {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="asuntos">
+            <p> Esportes </p>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Noticias sobre o Brasil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ipsa repellendus neque quidem ea saepe tempore totam debitis officia fuga numquam obcaecati iure necessitatibus, harum aliquam veniam, sit eaque itaque!</p>
+                <aside>
+                   <p>Escrito por Enzo</p>
+                </aside>
+            </article>
+            <article>
+                
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido por Enzo</p>
+    </footer>
+</body>
+</html>

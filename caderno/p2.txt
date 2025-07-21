@@ -1,0 +1,11 @@
+sites com imagens licenciadas:
+UnSplash	Rawpixels
+Pexes		pixabay
+Freepik		libreshot
+wikimidia commons
+
+imagens são colocadas em um site pela tag 
+"img" você consegue colocar uma imagem
+se ela está na mesma pasta, se ela está 
+em uma sub-pasta e até se ela estiver em outro servidor. 
+ps: mas se o servidor cair sua imagem desaparece.

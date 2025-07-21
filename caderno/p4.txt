@@ -1,0 +1,52 @@
+quando fiser uma citação usar a tag "q"
+ou "blockquote"
+
+listas:
+tipos de listas no HTML
+ol (ordened list ou lista ordenada) que a ordem dos itens tem importancia 
+se é usada a tag li para montar a esta lista 
+que pode ser usado número, letras e números romanos
+1, A, a, I, i
+ul (unorded list ou lista não ordenada)que a ordem dos itens não importam
+se é usada a tag li para montar a esta lista
+que pode ter 3 formas disc, circle e square.
+dl (definition list ou lista de definição)que você escre um termo e colaca a descrição
+são usadas as tags dt dd para montar a esta lista. 
+ps: listas podem conter listas 
+
+
+seletores personalizados:
+
+#  = id
+.  = class
+:  = pseudo-class
+:: = pseudo-elemento
+
+height = altura;
+width = largura.
+
+<div>:
+h1 - h6
+p
+main
+header
+nav
+article
+aside
+footer
+form
+video
+
+<span>:
+a
+code
+small
+strong
+em
+sup - sub
+label
+button
+input
+select     
+
+para criar variaveis em CSS uasar a pseudo-classe ":root"                                                                                                                 

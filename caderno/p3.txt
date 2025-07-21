@@ -1,0 +1,25 @@
+html:
+semântica, que quer dizer significado
+
+css:
+estilo, forma
+
+formatação de texto:				tags semânticas:	tags não semânticas:
+para colocar um texto em negrito		strong			b
+você pode usar a tag "strong"			em			i
+para colocar um texto em itálico		mark			____
+você pode usar a tag "em"			___			big
+para colocar um texto marcado			small			____
+você pode usar a tag "mark"			del			____
+para colocar um texto grande			ins			u
+você pode usar a tag "big" (não semântica)	sup			___
+para colocar um texto pequeno			sub			___
+você pode usar a tag "small"
+para colocar um texto riscado
+você pode usar a tag "del"
+para colocar um texto sublinhado 
+você pode usar a tag "ins"
+para colocar um texto sobrescrito 1¹
+você pode usar a tag "sup"
+para colocar um texto subescrito _
+você pode usar a tag "sub"
